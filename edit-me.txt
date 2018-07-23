@@ -1,1 +1,1 @@
- "Hi Queen Elizabeth the 2"
+puts "Hi Queen Elizabeth the 2"
